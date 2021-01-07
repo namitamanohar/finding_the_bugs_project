@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+.red {
+  color: red;
+}
+
+img .no-border {
+  border: 0px;
+}
+img {
+  max-width: 250px; 
+  
+}
