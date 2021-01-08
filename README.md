@@ -17,7 +17,8 @@ Created with CodeSandbox
 2. Read through the links provided in the Resource section above 
 3. Your project should look like the screenshot below. 
 
-![Image of Final Project]()
+## Image of Exemplar Project
+<img src="https://github.com/namitamanohar/finding_the_bugs_project/blob/main/findingBugsExemplar.png" alt="final Project exemplar">
 
 ## Orignal Article 
 https://www.nytimes.com/2020/12/31/style/tiktok-trends-2020.html
