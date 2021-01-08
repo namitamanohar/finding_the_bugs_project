@@ -1,5 +1,5 @@
 
-# 🐜 Finding the Bugs roject 🐛  
+# 🐜 Finding the Bugs Project 🐛  
 
 ## Student Instructions
 
