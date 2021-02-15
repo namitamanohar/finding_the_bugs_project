@@ -13,8 +13,13 @@
 ## Instructions
 
 1. Clone this repo using codesandbox
-2. Read through the links provided in the Resource section above 
-3. Your project should look like the screenshot below. 
+2. Open a new project at https://codesandbox.io/dashboard/home 
+3. Click Create Sandbox at the top right and select Import Project from the left side
+4. Paste the url of this project and click Import and Fork
+5. Click on the Github Cat on the left side 
+6. Under Export to new Github Repository: give your repo the name Unit 3 Finding Bugs Project 
+7. Read through the links provided in the Resource section above 
+8. Your project should look like the screenshot below. 
 
 ## Image of Exemplar Project
 <img src="https://github.com/namitamanohar/finding_the_bugs_project/blob/main/findingBugsExemplar.png" alt="final Project exemplar">
