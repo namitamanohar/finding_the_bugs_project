@@ -17,7 +17,7 @@
 3. Click Create Sandbox at the top right and select Import Project from the left side
 4. Paste the url of this project and click Import and Fork
 5. Click on the Github Cat on the left side 
-6. Under Export to new Github Repository: give your repo the name Unit 3 Finding Bugs Project (your project will now be linked to your github)
+6. Under Export to new Github Repository: give your repo the name Unit3FindingTheBugsProject (your project will now be linked to your github)
 7. Click Link to Sandbox
 8. Read through the links provided in the Resource section above 
 9. Your project should look like the screenshot below. 
